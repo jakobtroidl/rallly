@@ -10,6 +10,18 @@ Self-hostable doodle poll alternative. Find the best date for a meeting with you
 
 Built with [Next.js](https://github.com/vercel/next.js/), [Prisma](https://github.com/prisma/prisma), [tRPC](https://github.com/trpc/trpc) & [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 
+## Setup instructions for Priyan
+
+You will need to build a docker image to run my version of the Todo app. Please make sure docker is installed and the demon is running. Note, that there are docker issues on M1 chips. Works like a charm on intel CPUs on MacOS though.
+
+```bash
+git clone https://github.com/jakobtroidl/rallly.git
+cd rallly
+docker-compose up -d
+```
+access `http://localhost:3000/`
+
+
 ## 🐳 Quickstart with docker
 
 _For running in a production environment_
