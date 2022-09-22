@@ -1,18 +1,13 @@
-[![Actions Status](https://github.com/lukevella/rallly/workflows/ci/badge.svg)](https://github.com/lukevella/rallly/actions)
-[![Crowdin](https://badges.crowdin.net/rallly/localized.svg)](https://crowdin.com/project/rallly)
-[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-orange.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Discord](https://img.shields.io/badge/-Join%20Chat-7289DA?logo=discord&logoColor=white)](https://discord.gg/uzg4ZcHbuM)
-[![Donate](https://img.shields.io/badge/-Donate%20with%20Paypal-white?logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=7QXP2CUBLY88E)
-
-![hero](./docs/images/hero-image.png)
-
-Self-hostable doodle poll alternative. Find the best date for a meeting with your colleagues or friends without the back and forth emails.
+Self-hostable doodle poll alternative.
 
 Built with [Next.js](https://github.com/vercel/next.js/), [Prisma](https://github.com/prisma/prisma), [tRPC](https://github.com/trpc/trpc) & [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
 
 ## Setup instructions for Priyan
 
 You will need to build a docker image to run my version of the Todo app. Please make sure docker is installed and the demon is running. Note, that there are docker issues on M1 chips. Works like a charm on intel CPUs on MacOS though.
+
+You can also find my comments in those files
+
 
 ```bash
 git clone https://github.com/jakobtroidl/rallly.git
