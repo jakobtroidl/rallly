@@ -26,3 +26,6 @@ Due to the large scope of this software, I focused my comments only on the Demo 
 This code is largely based on an open-source implementation of doodle that can be found [here](https://github.com/lukevella/rallly)
 
 For more information about the software see `README_original.md`
+
+The demo off the app should look like this
+https://github.com/jakobtroidl/rallly/blob/main/demo.png
